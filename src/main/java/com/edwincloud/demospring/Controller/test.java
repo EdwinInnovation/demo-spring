@@ -9,7 +9,7 @@ public class test {
 
     @GetMapping("/test")
     public String ReturnRponse(){
-        return "Success: v1.0.0";
+        return "Success: v2.0.0";
     }
 
 }
